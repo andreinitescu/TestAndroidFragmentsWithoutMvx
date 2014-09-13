@@ -1,0 +1,4 @@
+TestAndroidFragmentsWithoutMvx
+==============================
+
+test fragments
